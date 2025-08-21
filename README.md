@@ -1,4 +1,4 @@
-# Rajasthan-Trip-Form
+# Rajasthan-Trip
 
 This is a simple web application for collecting user information for a trip to Jaipur. The form collects basic user details and stores them in a MySQL database.
 
