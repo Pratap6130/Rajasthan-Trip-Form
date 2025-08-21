@@ -82,12 +82,8 @@ This is a simple web application for collecting user information for a trip to J
 5. Push to the branch (`git push origin feature-branch`).
 6. Open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-For any inquiries, please contact Pratap Singh at [kunwarsingh9752005805@gmail.com](mailto:kunwarsingh9752005805@gmail.com).
+For any inquiries, don't hesitate to get in touch with Pratap Singh at [kunwarsingh9752005805@gmail.com](mailto:kunwarsingh9752005805@gmail.com).
 
 
